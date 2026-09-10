@@ -2,7 +2,7 @@
 
 I build websites — restaurants, small businesses, service platforms. Real projects, live and working.
 
-**Currently exploring:** backend architecture, and learning guitar 🎸
+**Currently exploring:** backend architecture
 
 ---
 
