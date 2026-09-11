@@ -1,6 +1,6 @@
 # Mohammed Ikhlas
 
-I build websites — restaurants, small businesses, service platforms. Real projects, live and working.
+I build websites — Real projects, live and working.
 
 **Currently exploring:** backend architecture
 
@@ -20,3 +20,7 @@ I build websites — restaurants, small businesses, service platforms. Real proj
 HTML · CSS · JavaScript · Node.js · Express · MongoDB · Netlify · Render
 
 [Instagram](https://instagram.com/memohammedikhlas) · [LinkedIn](https://in.linkedin.com/in/mohammed-ikhlas-momin-173a33370) · [mominikhlas4569@gmail.com](mailto:mominikhlas4569@gmail.com)
+
+### 🚀 Projects
+
+- **[Velune](https://github.com/memohammedikhlas/Velune)** — A minimalist Android launcher (Kotlin) with distraction-free home screen, app blocking, and focus tools.
