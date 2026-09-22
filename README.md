@@ -21,6 +21,6 @@ HTML · CSS · JavaScript · Node.js · Express · MongoDB · Netlify · Render
 
 [Instagram](https://instagram.com/memohammedikhlas) · [LinkedIn](https://in.linkedin.com/in/mohammed-ikhlas-momin-173a33370) · [mominikhlas4569@gmail.com](mailto:mominikhlas4569@gmail.com)
 
-### 🚀 Projects
+###  Projects
 
 - **[Velune](https://github.com/memohammedikhlas/Velune)** — A minimalist Android launcher (Kotlin) with distraction-free home screen, app blocking, and focus tools.
