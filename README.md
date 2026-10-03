@@ -1,6 +1,6 @@
 # Mohammed Ikhlas
 
-I build websites — Real projects, live and working
+I build websites — Real projects, live and working.
 
 **Currently exploring:** backend architecture.
 
