@@ -6,7 +6,7 @@ I build websites — Real projects, live and working.
 
 ---
 
-**Spice Haven** — A restaurant site built around one thing: making table reservations effortless
+**Spice Haven** — A restaurant site built around one thing: making table reservations effortless.
 → [spicehavenresto.netlify.app](https://spicehavenresto.netlify.app/)
 
 **Kamil Cafe** — Menu, gallery, and booking, built to feel as relaxed as the cafe itself.
