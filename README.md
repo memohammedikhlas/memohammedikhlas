@@ -2,7 +2,7 @@
 
 I build websites — Real projects, live and working.
 
-**Currently exploring:** backend architecture.
+**Currently exploring:** backend architecture
 
 ---
 
